@@ -22,6 +22,10 @@ Completed the task
 
 - Github link: https://github.com/Okeoma/HyperionDev-DS-T52-Git_Basics
 
+# This is the biggest heading you get. It is usually used for the title of a doc.
+## This is a slightly smaller heading.
+###### This is the smallest heading that you get.
+
 *This text will be italic*
 _This will also be italic_
 **This text will be bold**
